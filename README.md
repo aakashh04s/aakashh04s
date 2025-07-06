@@ -46,31 +46,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AakashShaw&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AakashShaw&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AakashShaw&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Profile Details" />
-</div>
-
----
-
-### 💼 Featured Projects
-
-- *[Shopping Cart Web App](#)*  
-  Built using React, Redux Toolkit, and Tailwind CSS. Features dynamic cart updates, global state management, and toast notifications.
-
-- *[Sanjivani – Disease Info Web App](#)*  
-  A static informative app created with HTML, CSS, and JavaScript providing categorized disease details and search capabilities.
-
----
-
-### 📜 Certifications
-
-- *Data Structures* – Apna College
-
----
 
 ### 🌍 Let's Connect
 
