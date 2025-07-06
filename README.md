@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c" width="40" height="40" />
+  <img src="[https://cdn.worldvectorlogo.com/logos/c.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AC_Logo.png&psig=AOvVaw36d_Oil2Sm05GY7LGB1ghI&ust=1751862245360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCgj8ixp44DFQAAAAAdAAAAABAE)" alt="c" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40" />
 </div>
 
